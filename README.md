@@ -29,15 +29,18 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 Copy and paste the below into a new issue.
 
 ```
-**Concise description. What problem are you trying to solve?**: 
+## Description
+Concise description. What problem are you trying to solve?
 
-**Link (more details/brain dump/alpha)**
+## Additional Details/Links
+Any more information including links to simliar projects and resources.
 
-**Who will use/benefit from this project?**
+## Who will use/benefit from this project?
 
-**Project Needs (dev/design/resources)**
+## Project Needs (dev/design/resources)
 
-**Status (in progress, pie-in-the-sky)**
+## Status
+In progress, pie-in-the-sky, etc.
 ```
 
 ### Project Stages
