@@ -18,30 +18,11 @@ Thanks for co-creating with us!
 
 [GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. First, you'll need to [create an account](https://github.com/join). Then you have two options: (1) comment on an existing idea (a.k.a. "issue"), or (2) create a new idea.
 
-If you see an idea that you're interested in, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/codeforokc/project-ideas/issues/new). You'll need a title and description and we encourage you to use the template below. Then, someone from the Code for OKC Core Team will respond, likely with some questions or feedback. 
+If you see an idea that you're interested in, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/codeforokc/project-ideas/issues/new). When you start a new issue there will be a pre-populated template with the main data points . Please fill it out and provide as much information as you can. Then, someone from the Code for OKC Core Team will respond, likely with some questions or feedback. 
 
 GitHub is the platform we're using to collect ideas, vet ideas, and convert those ideas into active projects. Once a project becomes active, a new *repository* on GitHub will be created where all subsequent conversations about that project will live. We'll continue to use the Issues feature to flag obstacles, opportunities, and answer questions about that specific project.
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
-
-## Template for New Project Ideas
-
-Copy and paste the below into a new issue.
-
-```
-## Description
-Concise description. What problem are you trying to solve?
-
-## Additional Details/Links
-Any more information including links to simliar projects and resources.
-
-## Who will use/benefit from this project?
-
-## Project Needs (dev/design/resources)
-
-## Status
-In progress, pie-in-the-sky, etc.
-```
 
 ### Project Stages
 
